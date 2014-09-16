@@ -9,10 +9,10 @@
 #import <UIKit/UIKit.h>
 
 //! Project version number for TreeStructures.
-FOUNDATION_EXPORT double TreeStructuresVersionNumber;
+FOUNDATION_EXPORT double TreeStructuresVersionNumber = 1.0;
 
 //! Project version string for TreeStructures.
-FOUNDATION_EXPORT const unsigned char TreeStructuresVersionString[];
+FOUNDATION_EXPORT const unsigned char TreeStructuresVersionString[] = "Version 1";
 
 #import "AncestorNode.h"
 #import "Edge.h"
